@@ -23,7 +23,7 @@ public class ClimateService {
         Temprature save = tempratureRepo.save(temp);
         System.out.println(save);
         return save;
-
+//Praveen Gandu hai
     }
 
 }
